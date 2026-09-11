@@ -43,9 +43,9 @@ The goal was to build something that demonstrates not only the ability to write 
 
 The PostgreSQL data was connected to Tableau to build an interactive sales dashboard for exploring completed sales performance.
 
-[![ShopFlow E-Commerce Sales Dashboard](./shopflow-dashboard.PNG)](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![ShopFlow E-Commerce Sales Dashboard](./shopflow-dashboard.png.PNG)](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:redirect=auth)
 
-**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:redirect=auth)**
 
 ### Dashboard Features
 
@@ -59,6 +59,7 @@ The PostgreSQL data was connected to Tableau to build an interactive sales dashb
 - Top Customers
 - Order Status Distribution
 - Interactive category filtering
+
 The dashboard was validated against PostgreSQL before publication to ensure that the reported KPIs and analytical results matched the underlying database.
 ---
 
