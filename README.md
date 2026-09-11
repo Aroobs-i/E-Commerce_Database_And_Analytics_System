@@ -40,6 +40,30 @@ The goal was to build something that demonstrates not only the ability to write 
 
 ---
 
+# 📊 Tableau Dashboard
+
+The PostgreSQL data was also connected to Tableau to build an interactive sales dashboard for exploring completed sales performance.
+
+### Dashboard Features
+
+- Total Revenue
+- Completed Orders
+- Total Customers
+- Average Order Value (AOV)
+- Monthly Completed Revenue
+- Revenue by Category
+- Top Products
+- Top Customers
+- Order Status Distribution
+- Interactive category filtering
+
+### Live Dashboard
+
+👉 [View the interactive ShopFlow dashboard on Tableau Public](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The dashboard was validated against PostgreSQL before publication to ensure that the reported KPIs and analytical results matched the underlying database.
+---
+
 # 🗂️ Entity Relationship Diagram
 
 The database follows a relational structure connecting customers to orders, orders to order items, products to order items, and products to categories.
