@@ -43,7 +43,7 @@ The goal was to build something that demonstrates not only the ability to write 
 
 The PostgreSQL data was connected to Tableau to build an interactive sales dashboard for exploring completed sales performance.
 
-[![ShopFlow E-Commerce Sales Dashboard](./dashboard1.png)](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![ShopFlow E-Commerce Sales Dashboard](./shopflow-dashboard.png)](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/ShopFlowE-CommerceSalesDashboard/ShopFlowSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
